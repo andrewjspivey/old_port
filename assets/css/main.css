@@ -128,6 +128,16 @@ ul {
   padding-bottom: 1rem;
 }
 
+#profpic_cont {
+  display: flex;
+  justify-content: center;
+  padding-bottom: 2rem;
+}
+
+#profpic {
+  width: 300px;
+}
+
 blockquote,
 q {
   quotes: none;
@@ -3919,7 +3929,7 @@ body.is-preload #intro:not(.hidden) + #header + #nav {
 }
 
 #main > .post {
-  padding: 8rem 8rem 6rem 8rem;
+  padding: 4rem 8rem 6rem 8rem;
 }
 
 #main > .post header.major > .date {
