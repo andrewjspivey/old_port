@@ -138,6 +138,20 @@ ul {
   width: 300px;
 }
 
+#skills-container {
+  margin-top: 5rem;
+  text-align: center;
+}
+#skills {
+  font-family: "Merriweather", Georgia, serif;
+  font-size: 1.3rem;
+  text-align: center;
+}
+
+#triple {
+  margin-left: 1rem;
+}
+
 blockquote,
 q {
   quotes: none;
